@@ -1,3 +1,4 @@
+[CFG.docx](https://github.com/centrifuge/documentation/files/6449691/CFG.docx)
 ---
 id: use-cases
 order: 6
